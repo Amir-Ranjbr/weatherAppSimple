@@ -16,6 +16,7 @@
 ### Screenshot
 
 ![](images/laptop.png)
+![](images/desktop.png)
 
 ## The solutions with these tools:
 
